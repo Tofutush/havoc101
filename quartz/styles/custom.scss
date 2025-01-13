@@ -1,6 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@font-face {
+    font-family: Lexend;
+    src: url(../static/fonts/Lexend.ttf);
+}
 
 body {
     font-size: 120%;
@@ -48,18 +52,23 @@ ol.overflow>li:last-of-type {
 a[href*="achievements"] {
     color: #E93147;
 }
+
 a[href*="endings"] {
     color: #EC7500;
 }
+
 a[href*="items"] {
     color: #E0AC00;
 }
+
 a[href*="locations"] {
     color: #068E3C;
 }
+
 a[href*="missions"] {
     color: #0BAAF9;
 }
+
 a[href*="characters"] {
     color: #7852EE;
 }
