@@ -27,6 +27,10 @@ ul {
     list-style: disc;
 }
 
+li.section-li>.section {
+    grid-template-columns: 3fr 1fr;
+}
+
 a {
     font-weight: normal;
 }
@@ -42,6 +46,7 @@ a.internal {
 .page>#quartz-body .right.sidebar {
     padding: 3rem 2rem 2rem;
     gap: 1rem;
+    flex-direction: column;
 }
 
 ul.overflow>li:last-of-type,
