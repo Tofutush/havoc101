@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "tofutush.github.io/havoc101",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "misc"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -33,7 +33,7 @@ const config: QuartzConfig = {
           gray: "#0003",
           darkgray: "#121212",
           dark: "#121212",
-          secondary: "#ae3337",
+          secondary: "#e56b6f",
           tertiary: "#e56b6f",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
