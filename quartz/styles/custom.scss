@@ -1,3 +1,56 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+@font-face {
+    font-family: Lexend;
+    src: url(../static/fonts/Lexend.ttf);
+}
+
+body {
+    font-size: 120%;
+}
+
+p {
+    line-height: 2;
+}
+
+li {
+    line-height: 2;
+}
+
+article li {
+    line-height: 2;
+    margin: .5rem 0;
+}
+
+ul {
+    list-style: disc;
+}
+
+a {
+    font-weight: normal;
+}
+
+a.internal {
+    background-color: transparent;
+    border-radius: 0;
+    padding: 0;
+    text-decoration: none;
+    line-height: inherit;
+}
+
+.page>#quartz-body .right.sidebar {
+    padding: 3rem 2rem 2rem;
+    gap: 1rem;
+}
+
+ul.overflow>li:last-of-type,
+ol.overflow>li:last-of-type {
+    margin-bottom: 0;
+}
+
+::selection {
+    color: var(--light);
+    background: var(--secondary);
+}
