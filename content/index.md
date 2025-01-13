@@ -10,7 +10,7 @@ A game idea I may never complete in my life but I revel in thinking about it. Ba
 
 Wreak havoc at your school. Complete missions and get achievements. That's kind of it.
 
-The [[player]] starts on Sunday evening with the mission [[Find your student card]]. She then goes through a week of school which ends on Friday afternoon, but if she can find a way to [[Master Manipulator|manipulate time]] she can play forever.
+The [[player]] starts on Sunday evening with the mission [[Find your student card]]. She then goes through a week of school which ends on Friday afternoon, but if she can find a way to [[Master Manipulator|manipulate time]] she can play forever. There are permanent endings, but most are bad.
 
 "Why does the player have to be a she" because I say so
 

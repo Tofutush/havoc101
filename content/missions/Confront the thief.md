@@ -20,6 +20,7 @@ You're pretty sure you got the right person. Now all you have to do is confront 
 			- If the gun is not in the piano seat
 				- The thief locks the player inside the seat
 				- Ending [[Outmatched]]
+	- Achieve [[Dilettante Detective]]
 - If the thief is incorrect
 	- [[cafeteria]]
 	- Achieve [[Outsmarted]]

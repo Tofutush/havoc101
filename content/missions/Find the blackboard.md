@@ -9,4 +9,4 @@ This is no ordinary thievery... This is pure sabotage. You've got to find the bl
 - The blackboard is in Building A's hidden staircase
 - Take it and bring it to [[Pumpkin]]
 - [[Pumpkin]] will give you his elevator card
-	- Achieve [[Spaghetti arms and jelly knees]]
+	- Achieve [[Spaghetti Arms and Jelly Knees]]

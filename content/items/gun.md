@@ -1,3 +1,1 @@
-## Found in
-
-The piano seat in [[Piano hall]]
+Found in the piano seat in [[Piano hall]]
