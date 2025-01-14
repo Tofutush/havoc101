@@ -14,7 +14,7 @@ You're pretty sure you got the right person. Now all you have to do is confront 
 			- Don't shoot the thief
 				- Achieve [[Paper Tiger]]
 		- If [[player]]'s weapon isn't gun
-			- If the gun is still in the piano seat
+			- If the gun is still in the [[piano seat]]
 				- The thief shoots the player
 				- Ending [[Bloodbath]]
 			- If the gun is not in the piano seat
