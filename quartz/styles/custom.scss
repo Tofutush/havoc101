@@ -14,7 +14,6 @@ body {
 p {
     line-height: 2;
     text-align: justify;
-    text-indent: 2em;
 }
 
 li {
@@ -99,6 +98,5 @@ a[href*="characters"] {
 @media all and ($mobile) {
     p {
         text-align: left;
-        text-indent: 0;
     }
 }
