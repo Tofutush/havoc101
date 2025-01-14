@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 @font-face {
@@ -12,6 +13,8 @@ body {
 
 p {
     line-height: 2;
+    text-align: justify;
+    text-indent: 2em;
 }
 
 li {
@@ -32,15 +35,25 @@ li.section-li>.section {
 }
 
 a {
+    color: inherit;
     font-weight: normal;
+    text-decoration: underline;
+    text-decoration-color: var(--c);
+    --c: var(--secondary);
+    transition: none;
 }
 
 a.internal {
     background-color: transparent;
     border-radius: 0;
     padding: 0;
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: var(--c);
     line-height: inherit;
+}
+
+a:hover {
+    color: var(--c);
 }
 
 .page>#quartz-body .right.sidebar {
@@ -55,30 +68,37 @@ ol.overflow>li:last-of-type {
 }
 
 a[href*="achievements"] {
-    color: #E93147;
+    --c: #E93147;
 }
 
 a[href*="endings"] {
-    color: #EC7500;
+    --c: #EC7500;
 }
 
 a[href*="items"] {
-    color: #E0AC00;
+    --c: #E0AC00;
 }
 
 a[href*="locations"] {
-    color: #068E3C;
+    --c: #068E3C;
 }
 
 a[href*="missions"] {
-    color: #0BAAF9;
+    --c: #0BAAF9;
 }
 
 a[href*="characters"] {
-    color: #7852EE;
+    --c: #7852EE;
 }
 
 ::selection {
     color: var(--light);
     background: var(--secondary);
+}
+
+@media all and ($mobile) {
+    p {
+        text-align: left;
+        text-indent: 0;
+    }
 }

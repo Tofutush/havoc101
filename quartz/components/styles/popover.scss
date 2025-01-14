@@ -2,12 +2,12 @@
 
 @keyframes dropin {
   0% {
-    opacity: 0;
-    visibility: hidden;
+    opacity: 1;
+    visibility: visible;
   }
-  1% {
-    opacity: 0;
-  }
+  // 1% {
+  //   opacity: 0;
+  // }
   100% {
     opacity: 1;
     visibility: visible;
@@ -67,7 +67,7 @@
   visibility: hidden;
   opacity: 0;
   transition:
-    opacity 0.3s ease,
+    // opacity 0.3s ease,
     visibility 0.3s ease;
 
   @media all and ($mobile) {
@@ -79,5 +79,5 @@ a:hover .popover,
 .popover:hover {
   animation: dropin 0.3s ease;
   animation-fill-mode: forwards;
-  animation-delay: 0.2s;
+  animation-delay: 0.5s;
 }
