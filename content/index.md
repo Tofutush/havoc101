@@ -17,5 +17,5 @@ The [[player]] starts on Sunday evening with the mission [[Find your student car
 The next line is a dataview list of all files. Ignore it.
 
 ```dataview
-table from ""
+table from "" sort file.path asc
 ```
