@@ -9,4 +9,5 @@ Pilot a helicopter.
 - Go to the [[3rd floor rooftop]]
 - Open the helicopter door with the key
 - Fly away
-- If the school is not on fire, you will get shot down into ending [[Anti-Aircrafted]].
+	- If the school is *not* on fire, you will get shot down into ending [[Anti-Aircrafted]].
+	- If the school *is* on fire, you will achieve [[Epic Escapist]]
