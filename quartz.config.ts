@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "tofutush.github.io/havoc101",
-    ignorePatterns: ["private", "templates", ".obsidian", "misc"],
+    ignorePatterns: [".obsidian", "z-misc", "z-maps"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
