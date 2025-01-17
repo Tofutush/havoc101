@@ -16,6 +16,30 @@ p {
     text-align: justify;
 }
 
+.center h2,
+.center h3,
+.center h4 {
+    line-height: 2;
+}
+
+.center h2::before {
+    content: '# ';
+    color: var(--secondary);
+    opacity: .5;
+}
+
+.center h3::before {
+    content: '## ';
+    color: var(--secondary);
+    opacity: .5;
+}
+
+.center h4::before {
+    content: '### ';
+    color: var(--secondary);
+    opacity: .5;
+}
+
 li {
     line-height: 2;
 }
