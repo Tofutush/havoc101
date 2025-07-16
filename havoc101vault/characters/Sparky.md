@@ -1,1 +1,1 @@
-[Sparky](https://tofutush.github.io/The-Iron-Ragdoll/characters/sparky)
+[Sparky](https://tofutush.neocities.org/characters/sparky)

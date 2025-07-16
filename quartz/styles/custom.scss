@@ -90,34 +90,6 @@ ol.overflow>li:last-of-type {
     margin-bottom: 0;
 }
 
-a[href*="achievements"] {
-    --c: #E93147;
-}
-
-a[href*="characters"] {
-    --c: #EC7500;
-}
-
-a[href*="endings"] {
-    --c: #E0AC00;
-}
-
-a[href*="items"] {
-    --c: #068E3C;
-}
-
-a[href*="locations"] {
-    --c: #0BAAF9;
-}
-
-a[href*="mechanics"] {
-    --c: #7852EE;
-}
-
-a[href*="missions"] {
-    --c: #db39d5;
-}
-
 ::selection {
     color: var(--light);
     background: var(--secondary);

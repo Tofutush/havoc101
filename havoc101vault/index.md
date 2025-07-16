@@ -4,7 +4,7 @@ title: Havoc 101
 
 # What is this
 
-A game idea I may never complete in my life but I revel in thinking about it. Based on but not canon to the [TIR world](https://tofutush.github.io/The-Iron-Ragdoll) (open this in new tab to end the SPA!).
+A game idea I may never complete in my life but I revel in thinking about it. Based on but not canon to the [TIR world](https://tofutush.neocities.org).
 
 ## Description
 
